@@ -11,9 +11,9 @@ AI classifier trained on the Shopmania product dataset. Categorises products bas
 
 from the root folder:
 
-pip3 install -r requirements.txt
-python3 model_trainer.py
+  pip3 install -r requirements.txt
+  python3 model_trainer.py
 
 modify test_set.csv with product titles you come up with afterwards run:
 
-python3 classify_product_data.py
+  python3 classify_product_data.py
