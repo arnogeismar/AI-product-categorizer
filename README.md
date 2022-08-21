@@ -1,4 +1,4 @@
-# ai product categorizer
+# AI product categorizer
 AI classifier trained on the Shopmania product dataset. Categorises products based on title.
 
 
